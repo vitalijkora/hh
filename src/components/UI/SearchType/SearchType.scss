@@ -1,0 +1,12 @@
+@import "../../../index";
+.SearchType{
+  width: $mainSize*5;
+  box-sizing: border-box;
+  background: $white;
+  color: $grey;
+  padding: 0 $mainSize/2;
+  font-size: 14px;
+  border: 1px solid $borderGrey;
+  border-left: none;
+  display: table-cell;
+}

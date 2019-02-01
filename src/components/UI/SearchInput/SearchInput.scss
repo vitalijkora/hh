@@ -1,0 +1,15 @@
+@import "../../../index";
+.SearchInput{
+  background: $white;
+  color: $grey;
+  height: $mainSize*2;
+  padding: 0 $mainSize/2;
+  font-size: 14px;
+  border: 1px solid $borderGrey;
+  display: table-cell;
+
+  &:focus{
+    border: 1px solid $contrastyColor;
+    outline: none;
+  }
+}
