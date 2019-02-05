@@ -1,0 +1,28 @@
+@import "../../index";
+.JobPreview{
+  border: 1px solid $borderGrey;
+  border-bottom: none;
+  width: 600px;
+  padding: $mainSize;
+  &:last-child{
+    border-bottom: 1px solid $borderGrey;
+  }
+}
+.Top{
+  height: 30px;
+}
+.JobName{
+  font-size: 1.3em;
+  float: left;
+  color: $contrastyBlue;
+  &:hover{
+    color: $contrastyRed;
+  }
+}
+.Price{
+  float: right;
+}
+.CompanyName, .City{
+  font-size: 0.8em;
+  color: $grey;
+}

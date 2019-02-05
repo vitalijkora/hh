@@ -1,0 +1,14 @@
+@import "../../index";
+.SearchLine{
+  display: block;
+  margin: $mainSize $mainSize*2;
+  min-width: 800px;
+}
+.Logo{
+  background: url('https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=3') 0 0 no-repeat;
+  width: $mainSize*4;
+  height: $mainSize*3;
+  display: block;
+  float: left;
+
+}

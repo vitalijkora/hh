@@ -1,0 +1,17 @@
+@import "../../index";
+.Pagination{
+  display: inline-block;
+  & li{
+    display: block;
+    float: left;
+    min-width: $mainSize;
+    padding: $mainSize/2;
+    margin: $mainSize/2 $mainSize/2 $mainSize/2 0 ;
+    text-align: center;
+}
+    & .Link{
+      background: $mainBackground*0.95;
+      cursor: pointer;
+      border: 1px solid $borderGrey;
+    }
+}

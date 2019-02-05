@@ -1,0 +1,53 @@
+@import "../../index";
+.ClusterGroup {
+  display: inline-block;
+  float: left;
+  background: $mainBackground*0.98;
+  width: 220px;
+  padding: $mainSize/2;
+  margin-right: $mainSize*1.5;
+  & div{
+    font-weight: bold;
+    padding:$mainSize $mainSize/2 $mainSize/4 $mainSize/2;
+  }
+  & div:first-child{
+    padding:$mainSize/4 $mainSize/2;
+  }
+  & li{
+    display: table;
+    width: 100%;
+    color: $grey;
+    cursor: pointer;
+    &:hover{
+      background: $mainBackground*0.94;
+    }
+    & span{
+      display: table-cell;
+      padding: $mainSize/4 $mainSize/2;
+    }
+    & span:last-child{
+      text-align: right;
+    }
+  }
+}
+.Selected{
+  background: $mainBackground*0.94;
+  & a:hover{
+    background: $mainBackground*0.85;
+  }
+}
+.Hidden{
+  & li:nth-child(n+15){
+    display: none;
+  }
+}
+.Hidden{
+  & li:nth-child(n+15){
+    display: none;
+  }
+}
+.Hider{
+  font-weight: normal;
+  font-style: italic ;
+  cursor: pointer;
+}

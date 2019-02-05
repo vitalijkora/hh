@@ -1,13 +1,16 @@
 import React, {Component} from 'react'
 import TopNavigation from '../../components/TopNavigation/TopNavigation'
-import SearchLine from '../../components/SearchLine/SearchLine'
-import classes from './Layout.scss'
+import SearchLine from '../../containers/SearchLine/SearchLine'
 
 export default  class Layout extends Component {
+
+	updateData = (value) => {
+		this.props.updateData("keyword",value);
+	};
 	render(){
 		return(
-			<div className={classes.Layout}>
-				<SearchLine/>
+			<div>
+				<SearchLine updateData={this.updateData}/>
 				<TopNavigation/>
 				<main>
 					{this.props.children}

@@ -1,6 +1,14 @@
 import React from 'react'
-import './SearchInput.scss'
+import classes from './SearchInput.scss'
 
-export default ()=> (
-	<input type='text' className={'SearchInput'} placeholder="Я ищу…" />
-)
+export default props => {
+	return(
+		<input
+			id={"searchInput"}
+			type='text'
+			className={classes.SearchInput}
+			placeholder="Я ищу…"
+			onChange={() => {	props.updateData(document.getElementById('searchInput').value)	}}
+		/>
+	)
+}

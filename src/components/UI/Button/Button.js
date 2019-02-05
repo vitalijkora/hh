@@ -4,15 +4,12 @@ import classes from './Button.scss'
 export default props => {
 	const cls = [
 		classes.Button,
-		classes[props.type],
-		classes[props.size],
-		classes[props.cursor],
-		classes[props.color]
+		classes[props.type]
 	];
 
 	return (
 		<button
-			onClick={props.onClick}
+			onClick={() => { props.onClickSearchButton(true)}}
 			className={cls.join(' ')}
 			disabled={props.disabled}
 		>

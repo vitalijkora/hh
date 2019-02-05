@@ -1,8 +1,8 @@
 import React from 'react'
-import './SearchType.scss'
+import classes from './SearchType.scss'
 
 export default ()=> (
-	<div className={'SearchType'}>
+	<div className={classes.SearchType}>
 		Вакансии
 	</div>
 )
