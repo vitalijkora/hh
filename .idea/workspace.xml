@@ -2,49 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa34eb33-4f0e-4aab-8162-08e12dc41782" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/paths.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ClusterGroup/ClusterGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ClusterGroup/ClusterGroup.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/JobPreview/JobPreview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/JobPreview/JobPreview.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Pagination/Pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Pagination/Pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Job/Job.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Job/Job.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Jobs/Jobs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Jobs/Jobs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/SearchLine/SearchLine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/SearchLine/SearchLine.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About/About.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchLine/SearchLine.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchLine/SearchLine.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TopNavigation/TopNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TopNavigation/TopNavigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TopNavigation/TopNavigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TopNavigation/TopNavigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/SearchInput/SearchInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/SearchInput/SearchInput.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/SearchInput/SearchInput.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/SearchInput/SearchInput.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/SearchType/SearchType.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/SearchType/SearchType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/SearchType/SearchType.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/SearchType/SearchType.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/{" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~WRL0003.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Пояснения к тестовому зананию.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Пояснения к тестовому зананию.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/{" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,24 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SearchLine.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/containers/SearchLine/SearchLine.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Button.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/UI/Button/Button.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SearchInput.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/UI/SearchInput/SearchInput.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/UI/SearchType/SearchType.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="4" selection-end-column="26" />
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -116,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/JobPreview/JobPreview.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="32" />
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -139,11 +82,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="About.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="About.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/About/About.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="About.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/About/About.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -174,7 +138,6 @@
         <option value="$PROJECT_DIR$/src/components/UI/SearchType/SearchType.scss" />
         <option value="$PROJECT_DIR$/src/components/SearchLine/SearchLine.scss" />
         <option value="$PROJECT_DIR$/src/components/About/About.scss" />
-        <option value="$PROJECT_DIR$/src/components/About/About.js" />
         <option value="$PROJECT_DIR$/src/components/Jobs/Jobs.scss" />
         <option value="$PROJECT_DIR$/src/components/Jobs/Jobs.js" />
         <option value="$PROJECT_DIR$/src/index.scss" />
@@ -198,6 +161,8 @@
         <option value="$PROJECT_DIR$/src/components/ClusterGroup/ClusterGroup.js" />
         <option value="$PROJECT_DIR$/src/components/Pagination/Pagination.js" />
         <option value="$PROJECT_DIR$/src/components/ClusterGroup/ClusterGroup.scss" />
+        <option value="$PROJECT_DIR$/src/components/About/About.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -243,6 +208,26 @@
               <item name="hh" type="b2602c69:ProjectViewProjectNode" />
               <item name="hh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="About" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="JobPreview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hh" type="b2602c69:ProjectViewProjectNode" />
@@ -309,17 +294,18 @@
       <workItem from="1549202842417" duration="164000" />
       <workItem from="1549203066535" duration="1160000" />
       <workItem from="1549204507926" duration="50173000" />
-      <workItem from="1549367596118" duration="2604000" />
+      <workItem from="1549367596118" duration="3405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89696000" />
+    <option name="totallyTimeSpent" value="90497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18572372" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18572372" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -327,7 +313,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.61095506" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.42977527" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.497191" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -371,13 +357,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/containers/Jobs/Jobs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/Jobs/Jobs.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -580,16 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/About/About.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/ClusterGroup/ClusterGroup.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
@@ -721,7 +690,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/UI/SearchType/SearchType.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="4" selection-end-column="26" />
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -742,7 +711,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/JobPreview/JobPreview.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="32" />
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -763,7 +732,24 @@
     <entry file="file://$PROJECT_DIR$/src/components/About/About.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/About/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
         </state>
       </provider>
     </entry>
